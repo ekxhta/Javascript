@@ -32,3 +32,17 @@ let stringNum = String(num)
 let value=3
 let negVal = -value
 console.log(negVal);
+
+console.log("2+2 = ",2+2);
+console.log("2-2 = ",2-2);
+console.log("2*2 = ",2*2);
+console.log("2**2 = ",2**2);
+console.log("2/2 = ",2/2);
+console.log("2%3 = ",2%3);
+
+let str1="hello"
+let str2="ekxhta"
+
+str3=str1+str2
+console.log("str1 + str2 = str3 :",str3);
+
