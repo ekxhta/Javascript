@@ -46,3 +46,6 @@ let str2="ekxhta"
 str3=str1+str2
 console.log("str1 + str2 = str3 :",str3);
 
+console.log(" '1' + 2 = ","1"+2); // automatically concatenates, since one is a string
+console.log(' 1+"2" =',1+"2");
+console.log('1+2+"2"=',1+2+"2");
